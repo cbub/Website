@@ -1,3 +1,24 @@
 body{
-    background-color: dimgrey;
+    background-color: #b4cac8;
+}
+#progress_div{
+    height: 300px;
+    width: 640px;
+    background-color: #ffffff;
+    margin : 100px auto 0 auto;
+}
+#message_title{
+    font-size: 46px;
+    padding: 30px 110px 10px;
+}
+
+#bar {
+    height: 3px;
+    width: 550px;
+    background-color: #ffddcc;
+    margin: auto;
+}
+#message {
+    padding: 25px 45px;
+    font-size: 17px;
 }
