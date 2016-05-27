@@ -1,4 +1,4 @@
-# Personal-Website
+# cassandrabub.com
 A website created as an e-portfolio for myself.
 
 
