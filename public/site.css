@@ -1,43 +1,29 @@
 body{
-    background-color: #b4cac8;
+    margin:0px;
+    background:#fff;
 }
-#progress_div{
-    height: 330px;
-    width: 650px;
-    background-color: #ffffff;
-    margin : 100px auto 0 auto;
+.header {
+    height:46px;
+    background:#b4cac8;
+    border:1px solid #a5c0bd;
+    width:100%;
+    margin:0px auto;
 }
-#message_title{
-    font-size: 46px;
-    padding: 30px 110px 10px;
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    color: #fff;
 }
-
-#bar {
-    height: 3px;
-    width: 550px;
-    background-color: #ffddcc;
-    margin: auto;
+#links{
+    text-align: right;
+    font-size: 20px;
+    padding-top: 5px;
+    padding-right: 10px;
 }
-#message {
-    padding: 25px 45px;
-    font-size: 17px;
-}
-a:link {
-    color: #ffaa80;
-    text-decoration: none;
-}
-
-a:visited {
-    color: #3f8ba6;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #ff7866;
-    text-decoration: underline;
-}
-
-a:active {
-    color: #ffaa80;
-    text-decoration: underline;
+#name{
+    text-align: left;
+    font-size: 30px;
+    padding-left: 10px;
 }
