@@ -1,3 +1,6 @@
+# Definitely gave up after making the work in progress page. I used Wix on the linked page.
+
+
 # cassandrabub.com
 A website created as an e-portfolio for myself.
 
